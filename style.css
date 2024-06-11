@@ -92,3 +92,11 @@ p {
 .estudante-icones {
     width: 24px;
 }
+.rodape{
+    background-color:black;
+    text-align: center;
+}
+
+.rodape-imagem{
+    width: 15%;
+}
